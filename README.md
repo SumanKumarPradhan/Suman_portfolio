@@ -3,6 +3,7 @@
 
 <br>
 **A passionate software engineer with a focus on WebDevelopment**
+<br>
 
 <br>
 **Skills:**
@@ -22,7 +23,9 @@
 * CSS
 <br>
 * ServiceNow
+<br>
 
+<br>
 <br>
 **Interests:**
 <br>
@@ -31,7 +34,9 @@
 * ServiceNow
 <br>
 * Web Designing
+<br>
 
+<br>
 <br>
 **Projects:**
 <br>
